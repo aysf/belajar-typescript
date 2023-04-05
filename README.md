@@ -1,5 +1,9 @@
 # Belajar TypeScript
 
+## What is the difference?
+
+The key difference is: JavaScript uses 'dynamic types' (resolved at runtime), TypeScrpt uses 'static type' (set during development) 
+
 ## Prasarat
 
 - NodeJS
