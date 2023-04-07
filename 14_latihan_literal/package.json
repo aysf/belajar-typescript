@@ -1,0 +1,15 @@
+{
+  "name": "14_latihan_literal",
+  "version": "1.0.0",
+  "description": "Literal types are types where you don't just say that a certain variable or a parameter should hold, let's say a number or a string, but where you are very clear about the exact value it should hold.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
